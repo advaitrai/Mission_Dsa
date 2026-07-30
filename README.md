@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/advaitrai/Mission_Dsa/tree/master/0169-majority-element) |
+| [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/advaitrai/Mission_Dsa/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
