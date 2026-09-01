@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/advaitrai/Mission_Dsa/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/advaitrai/Mission_Dsa/tree/master/0169-majority-element) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/advaitrai/Mission_Dsa/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/advaitrai/Mission_Dsa/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/advaitrai/Mission_Dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
