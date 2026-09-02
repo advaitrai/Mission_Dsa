@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/advaitrai/Mission_Dsa/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/advaitrai/Mission_Dsa/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/advaitrai/Mission_Dsa/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
