@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/advaitrai/Mission_Dsa/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/advaitrai/Mission_Dsa/tree/master/0169-majority-element) |
+| [0724-find-pivot-index](https://github.com/advaitrai/Mission_Dsa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/advaitrai/Mission_Dsa/tree/master/0367-valid-perfect-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/advaitrai/Mission_Dsa/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
