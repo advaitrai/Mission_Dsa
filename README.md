@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/advaitrai/Mission_Dsa/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/advaitrai/Mission_Dsa/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/advaitrai/Mission_Dsa/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/advaitrai/Mission_Dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
