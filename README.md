@@ -32,17 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/advaitrai/Mission_Dsa/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/advaitrai/Mission_Dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/advaitrai/Mission_Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/advaitrai/Mission_Dsa/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/advaitrai/Mission_Dsa/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/advaitrai/Mission_Dsa/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/advaitrai/Mission_Dsa/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
