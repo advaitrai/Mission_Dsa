@@ -1,28 +1,23 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        // Handle single node list
-        if (head.next == null) return null;
-        
-        ListNode ptr = head;
+        int size = 0;
         ListNode temp = head;
-        
-        // Move ptr forward n times to create the gap
-        int i = 1;
-        while (i <= n) {
-            ptr = ptr.next; 
+
+        while (temp != null) {
+            temp = temp.next;
+            size++;
+        }
+        if (n == size) {
+            return head.next;
+        }    
+        int idx = size - n -1 ;
+        ListNode prev = head;
+        int i = 0;
+        while (i < idx) {
+            prev = prev.next;
             i++;
         }
-        if (ptr == null) return head.next;
-        while (ptr.next != null) {
-            ptr = ptr.next;
-            temp = temp.next;
-        } 
-        
-        
-        if (temp.next != null) {
-            temp.next = temp.next.next;
-        }
-        
+        prev.next = prev.next.next;
         return head;
     }
 }
