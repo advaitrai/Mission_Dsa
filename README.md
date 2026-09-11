@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/advaitrai/Mission_Dsa/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/advaitrai/Mission_Dsa/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/advaitrai/Mission_Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/advaitrai/Mission_Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/advaitrai/Mission_Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/advaitrai/Mission_Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/advaitrai/Mission_Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/advaitrai/Mission_Dsa/tree/master/0283-move-zeroes) |
 ## Stack
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/advaitrai/Mission_Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/advaitrai/Mission_Dsa/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
