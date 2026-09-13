@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/advaitrai/Mission_Dsa/tree/master/0020-valid-parentheses) |
+| [0796-rotate-string](https://github.com/advaitrai/Mission_Dsa/tree/master/0796-rotate-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0148-sort-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/advaitrai/Mission_Dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
