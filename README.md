@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/advaitrai/Mission_Dsa/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -114,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/advaitrai/Mission_Dsa/tree/master/0796-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/advaitrai/Mission_Dsa/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/advaitrai/Mission_Dsa/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/advaitrai/Mission_Dsa/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
