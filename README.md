@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/advaitrai/Mission_Dsa/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/advaitrai/Mission_Dsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/advaitrai/Mission_Dsa/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/advaitrai/Mission_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0724-find-pivot-index](https://github.com/advaitrai/Mission_Dsa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/advaitrai/Mission_Dsa/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/advaitrai/Mission_Dsa/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/advaitrai/Mission_Dsa/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/advaitrai/Mission_Dsa/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/advaitrai/Mission_Dsa/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/advaitrai/Mission_Dsa/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
