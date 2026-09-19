@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/advaitrai/Mission_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0724-find-pivot-index](https://github.com/advaitrai/Mission_Dsa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
+| [1200-minimum-absolute-difference](https://github.com/advaitrai/Mission_Dsa/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/advaitrai/Mission_Dsa/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/advaitrai/Mission_Dsa/tree/master/0435-non-overlapping-intervals) |
+| [1200-minimum-absolute-difference](https://github.com/advaitrai/Mission_Dsa/tree/master/1200-minimum-absolute-difference) |
 ## Counting
 |  |
 | ------- |
