@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/advaitrai/Mission_Dsa/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/advaitrai/Mission_Dsa/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/advaitrai/Mission_Dsa/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/advaitrai/Mission_Dsa/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/advaitrai/Mission_Dsa/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/advaitrai/Mission_Dsa/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/advaitrai/Mission_Dsa/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/advaitrai/Mission_Dsa/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/advaitrai/Mission_Dsa/tree/master/0796-rotate-string) |
 ## Bracket Sequences
 |  |
