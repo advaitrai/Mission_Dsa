@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/advaitrai/Mission_Dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/advaitrai/Mission_Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/advaitrai/Mission_Dsa/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/advaitrai/Mission_Dsa/tree/master/0901-online-stock-span) |
@@ -140,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/advaitrai/Mission_Dsa/tree/master/0435-non-overlapping-intervals) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/advaitrai/Mission_Dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/advaitrai/Mission_Dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/advaitrai/Mission_Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
