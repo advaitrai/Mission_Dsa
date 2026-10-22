@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/advaitrai/Mission_Dsa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/advaitrai/Mission_Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/advaitrai/Mission_Dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/advaitrai/Mission_Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/advaitrai/Mission_Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/advaitrai/Mission_Dsa/tree/master/0143-reorder-list) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/advaitrai/Mission_Dsa/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/advaitrai/Mission_Dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/advaitrai/Mission_Dsa/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/advaitrai/Mission_Dsa/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/advaitrai/Mission_Dsa/tree/master/0796-rotate-string) |
